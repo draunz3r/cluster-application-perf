@@ -109,3 +109,4 @@ You are free to open an issue to request a collector but we would also be happy 
 
 * [Matrix.org ClusterCockpit General chat](https://matrix.to/#/#clustercockpit-dev:matrix.org)
 * [Matrix.org ClusterCockpit Development chat](https://matrix.to/#/#clustercockpit:matrix.org)
+# cluster cockpit tryout binary
